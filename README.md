@@ -1,6 +1,6 @@
 # Hotel Management Project
 
-Welcome to the Hotel Management Project, a user-friendly and responsive application built with React. This project allows users to place orders, generate bills, and provides a seamless experience through the use of cards.
+Welcome to the Hotel Management Project, a user-friendly and responsive application built with React and Material UI. This project allows users to place orders, generate bills, and provides a seamless experience through the use of cards.
 
 ## Features
 
