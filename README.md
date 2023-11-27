@@ -14,17 +14,17 @@ Follow these steps to get the project up and running on your local machine.
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/hotel-management-project.git
-    ```
+    git clone https://github.com/your-username/hotel-management-project.git
+ 
 2. **Navigate through the project**
     ```
    cd hotel-management-project
-    ```
+    
 3. **Install Dependencies**
     ```
    npm install
-    ```
+    
 3. **Run the project**
   ```
    npm start
-  ```
+  
