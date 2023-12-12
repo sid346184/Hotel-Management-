@@ -7,7 +7,7 @@ import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 const Contact = () => {
   return (
     <Layout>
-        <Box sx={{my:10,"& h4":{fontWeight:"bold",mb:2}}}>
+        <Box sx={{mx:3,my:10,"& h4":{fontWeight:"bold",mb:2}}}>
           <Typography variant='h4'>
             Contact Us
           </Typography>
