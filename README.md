@@ -14,7 +14,7 @@ Follow these steps to get the project up and running on your local machine.
 
 1. **Clone the Repository:**
    ```
-    git clone https://github.com/your-username/hotel-management-project.git
+    [git clone https://github.com/your-username/hotel-management-project.git](https://github.com/sid346184/Hotel-Management-.git)
  
 2. **Navigate through the project**
     ```
